@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<data>
+<template id="cw_report_invoice_document" inherit_id="account.report_invoice_document">
+	<xpath expr="//div[@name='invoice_address']" position="attributes">
+		<attribute name="class">col-xs-5</attribute>
+	</xpath>
+    
+</template>
+</data>
+</odoo>
