@@ -7,8 +7,10 @@
     'category': 'account',
     'author': 'Christian Werner',
     'license': 'AGPL-3',
-    'depends': ['account'],
-    'data': ['views/report_account_invoice.xml'],
+    'depends': ['base','account'],
+    'data': ['views/report_account_invoice.xml',
+    'views/layouts.xml',
+    'views/res_company_view.xml'],
     'installable': True,
     'images': [],
 }

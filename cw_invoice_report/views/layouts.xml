@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+<data>
+
+<template id="cw_external_layout_footer" inherit_id="account.external_layout_footer">
+    <xpath expr="//t[@t-foreach='company.bank_journal_ids']" position="replace" />
+</template>
+
+</data>
+</openerp>

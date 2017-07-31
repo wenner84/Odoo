@@ -1,0 +1,126 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* cw_invoice_report
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 9.0c\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-31 19:49+0000\n"
+"PO-Revision-Date: 2017-07-31 19:49+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "<br/>\n"
+"				BIC:"
+msgstr "<br/>\n"
+"				BIC:"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "<br/>\n"
+"				IBAN:"
+msgstr "<br/>\n"
+"				IBAN:"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "<strong>Customer Code:</strong>"
+msgstr "<strong>Kunden-Nr:</strong>"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "<strong>Description:</strong>"
+msgstr "<strong>Beschreibung:</strong>"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "<strong>Due Date:</strong>"
+msgstr "<strong>Fällig am:</strong>"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "<strong>Invoice Date:</strong>"
+msgstr "<strong>Re.Datum:</strong>"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "<strong>Reference:</strong>"
+msgstr "<strong>Referenz:</strong>"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "<strong>Source:</strong>"
+msgstr "<strong>Quelle:</strong>"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "Amount"
+msgstr "Betrag"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "Bank:"
+msgstr "Bank:"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "Base"
+msgstr "Basis"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "Cancelled Invoice"
+msgstr "Stornierte Rechnung"
+
+#. module: cw_invoice_report
+#: model:ir.model,name:cw_invoice_report.model_res_company
+msgid "Companies"
+msgstr "Unternehmen"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "Draft Invoice"
+msgstr "Entwurf Rechnung"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "Invoice"
+msgstr "Rechnung"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "PRO-FORMA"
+msgstr "PRO-FORMA"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "Refund"
+msgstr "Gutschrift"
+
+#. module: cw_invoice_report
+#: model:ir.model.fields,field_description:cw_invoice_report.field_res_company_sec_image
+msgid "Sec Image"
+msgstr "2. Bild"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "Tax"
+msgstr "Steuer"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "Vendor Bill"
+msgstr "Lieferantenrechnung"
+
+#. module: cw_invoice_report
+#: model:ir.ui.view,arch_db:cw_invoice_report.cw_report_invoice_document
+msgid "Vendor Refund"
+msgstr "Lieferantengutschrift"
+
